@@ -1,7 +1,7 @@
 # React + Vite
 
 # React mini project 10 - ShoppingCart
-React CocktailDB App: Discover and search cocktails with this React-based application. View cocktail cards which have image, name, and glassware for each cocktail. Dive deeper with detailed information on ingredients and glass type by clicking the 'Details' button. Concepts used - API fetch and data display , Context API , Hooks used - (useContext , useState , useEffect , useRef , useCallback) , react-router-dom.
+React ShoppingCart App: Effortlessly manage your shopping cart with this React application, powered by Redux for efficient state management. Adjust quantities, view total amount, and item count. Easily remove single or all items from your cart by click of a button. Cocenpts used - Redux Toolkit, useSelector and useDispatch hooks.
 
 ## Demo Link - https://your-shopping-bag.netlify.app/
 
